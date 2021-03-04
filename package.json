@@ -1,0 +1,25 @@
+{
+  "name": "annarosa",
+  "version": "1.0.0",
+  "description": "site tipo o site da anna rosa",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx - live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpablodavid/siteAnnaRosa.git"
+  },
+  "author": "pablo david",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpablodavid/siteAnnaRosa/issues"
+  },
+  "homepage": "https://github.com/jpablodavid/siteAnnaRosa#readme",
+  "dependencies": {
+    "-": "0.0.1",
+    "D": "^1.0.0",
+    "live-server": "^1.2.1"
+  }
+}
